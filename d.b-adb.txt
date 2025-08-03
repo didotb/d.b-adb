@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202503080005
+! Version: 202503080006
 ! Title: d.b Personal list
 ! Last modified: 03-08-2025
 ! Expires: 30 days
