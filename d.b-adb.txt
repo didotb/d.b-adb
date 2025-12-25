@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Version: 202503080006
+! Version: 202512260000
 ! Title: d.b Personal list
-! Last modified: 03-08-2025
+! Last modified: 12-26-2025
 ! Expires: 30 days
-! Homepage: https://gist.github.com/didotb/63209c01975af50345ba99ed123e5a05
-! Home: https://gist.github.com/didotb/63209c01975af50345ba99ed123e5a05
-! Blog: https://gist.github.com/didotb/63209c01975af50345ba99ed123e5a05
+! Homepage: https://github.com/didotb
+! Home: https://github.com/didotb
+! Blog: https://github.com/didotb
 ! Hosting: GitHub.com
 !
 /adb_script/*
@@ -1008,16 +1008,67 @@ online.fliphtml5.com##[src*="https://online.fliphtml5.com/?gad"]
 *###protection
 *##.popup-box-ads
 
+! Sep 15, 2024 https://huamao.vip
+huamao.vip###app
+
+! Sep 15, 2024 https://huamaobizhi.com
+||huamao.vip/index/website/authAccess/1$subdocument
+
+! Oct 3, 2024 https://creativecow.net
+creativecow.net##.advads-background
+
+! Nov 4, 2024 kemono.su manual allow
+@@kemono.su/api/v1/authentication/*
+@@kemono.su/static/bundle/js/*.js
+
+! Dec 11, 2024 https://www.businessinsider.com
+www.businessinsider.com##.pw-body
+www.businessinsider.com##.pw-header
+www.businessinsider.com##.pw-active.pw-modal-entry
+www.businessinsider.com##.pw-active.pw-modal-backdrop
+
+! Jan 21, 2025 https://flybynightgraphics.com
+flybynightgraphics.com##.transition-opacity.bg-opacity-95.bg-gray-500.inset-0.fixed
+flybynightgraphics.com##.sm\:pb-4.sm\:p-6.pb-4.pt-5.px-4.bg-white
+flybynightgraphics.com##.flex-center.sm\:px-6.py-3.px-4.bg-gray-50
+flybynightgraphics.com##.sm\:p-0.sm\:block.text-center.pb-20.px-4.pt-4.min-h-screen.justify-center.items-end.flex
+flybynightgraphics.com##.overflow-y-auto.inset-0.z-10.fixed
+
+! Feb 7, 2025 https://www.healthcheckup.com
+www.healthcheckup.com##.cwvtvjoquptcfcrrzvevpzvluzlhcbefiaxhmgdwnwiwohdrrcmdldibh.yuwzamhlptjdklbmkdcricfdywdhcwsqtvlbgfsniduvcrtldibh
+
+! Mar 10, 2025 https://www.thingiverse.com
+||7b42709e22c8a619ea82c3689b5c9654.safeframe.googlesyndication.com/safeframe/1-0-41/html/container.html$subdocument
+||7b42709e22c8a619ea82c3689b5c9654.safeframe.googlesyndication.com/safeframe/1-0-41/html/container.html$subdocument
+||7b42709e22c8a619ea82c3689b5c9654.safeframe.googlesyndication.com/safeframe/1-0-41/html/container.html$subdocument
+
 ! Dec 20, 2024 https://sulasok.org
-sulasok.*##.floating-banner
+! floating banners
+/sulasok*\.*/##.floating-banner
+/sulasok*\.*/##.floatingBanner
+/sulasok*\.*/###floating-banner
+/sulasok*\.*/###floatingBanner
 ! Jan 14, 2025 https://sulasok.me
-sulasok.*##body > div
+/sulasok*\.*/##body > div
 ! Jan 26, 2025 https://sulasok.biz
-sulasok.*##body > div
+/sulasok*\.*/##body > div
 ! Feb 14, 2025 https://sulasok.xyz
-sulasok.*##script[src*="olkdzarkuk.com*"]
-sulasok.*##script[src*="mudacban.com*"]
-sulasok.*##script[src*="https://anewfeedliberty.com/zbs.kek.js"]
+/sulasok*\.*/##script[src*="olkdzarkuk.com*"]
+/sulasok*\.*/##script[src*="mudacban.com*"]
+/sulasok*\.*/##script[src*="https\:\/\/anewfeedliberty.com\/zbs\.kek\.js*"]
+
+! Apr 26, 2025 https://www.heise.de
+||cmp.heise.de/index.html?hasCsp=true&message_id=1295093&consentUUID=null&consent_origin=https%3A%2F%2Fcmp.heise.de%2Fconsent%2Ftcfv2&preload_message=true&version=v1$subdocument
+
+! Jun 12, 2025 https://hianime.to
+||cdn.noitatnemucod.net/thumbnail/300x400/100/eb429a09471cbd5ed7a87f7a9573b216.jpg$image
 
 ! Aug 3, 2025 https://youtube.com
-youtube.com#@#body > tp-yt-paper-dialog[style-target*="host"][role*="dialog"]
+youtube.com#@#tp-yt-paper-dialog[style-target*="host"][role*="dialog"]
+
+! Oct 11, 2025 https://wovodat.phivolcs.dost.gov.ph
+wovodat.phivolcs.dost.gov.ph###rateus
+wovodat.phivolcs.dost.gov.ph##.in.fade.modal-backdrop
+
+! Oct 25, 2025 https://google-images.papakatsu.co
+||google-images.papakatsu.co/upload/logo.svg$image
