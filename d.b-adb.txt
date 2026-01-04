@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202512260000
+! Version: 202601050000
 ! Title: d.b Personal list
-! Last modified: 12-26-2025
+! Last modified: 01-05-2026
 ! Expires: 30 days
 ! Homepage: https://github.com/didotb
 ! Home: https://github.com/didotb
@@ -1072,3 +1072,7 @@ wovodat.phivolcs.dost.gov.ph##.in.fade.modal-backdrop
 
 ! Oct 25, 2025 https://google-images.papakatsu.co
 ||google-images.papakatsu.co/upload/logo.svg$image
+
+! Jan 05, 2026: javhdporn disabling video when dev console is open
+||video.javhdporn.net/black.html
+||video1.javhdporn.net/black.html
