@@ -1076,3 +1076,15 @@ wovodat.phivolcs.dost.gov.ph##.in.fade.modal-backdrop
 ! Jan 05, 2026: javhdporn disabling video when dev console is open
 ||video.javhdporn.net/black.html
 ||video1.javhdporn.net/black.html
+
+! Jun 208, 2026 https://xpinay.one
+! floating banners
+/xpinay*\.*/##.floating-banner
+/xpinay*\.*/##.floatingBanner
+/xpinay*\.*/###floating-banner
+/xpinay*\.*/###floatingBanner
+/xpinay*\.*/##body > div
+/xpinay*\.*/##body > div
+/xpinay*\.*/##script[src*="olkdzarkuk.com*"]
+/xpinay*\.*/##script[src*="mudacban.com*"]
+/xpinay*\.*/##script[src*="https\:\/\/anewfeedliberty.com\/zbs\.kek\.js*"]
