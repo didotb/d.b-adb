@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202601050000
+! Version: 202606280001
 ! Title: d.b Personal list
-! Last modified: 01-05-2026
+! Last modified: 06-28-2026
 ! Expires: 30 days
 ! Homepage: https://github.com/didotb
 ! Home: https://github.com/didotb
