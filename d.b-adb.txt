@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202606280002
+! Version: 202606280003
 ! Title: d.b Personal list
 ! Last modified: 06-28-2026
 ! Expires: 30 days
@@ -1089,4 +1089,4 @@ wovodat.phivolcs.dost.gov.ph##.in.fade.modal-backdrop
 /xpinay*\.*/##script[src*="mudacban.com*"]
 /xpinay*\.*/##script[src*="https\:\/\/anewfeedliberty.com\/zbs\.kek\.js*"]
 /xpinay*\.*/##script[src*="assets\/js\/bs-init.js*"]
-/xpinay*\.*/##iframe[src*="intro-video-webp.php*"]
+/xpinay*\.*/##body > section > div[class*="container*"] > div[class*="row*"] > div[class*="col-md-8*"] > div[id*="vid_player*"] > iframe[src*="intro-video-webp.php*"]
